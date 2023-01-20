@@ -1,0 +1,23 @@
+
+body {
+background-color: #EAE7B1;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-top-color: #A6BB8D;
+border-width: 5px;
+height: 20px;
+width: 10%;
+}
+
+h1 {
+    color: #3C6255;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: #3C6255;
+    font-family: Arial, Helvetica, sans-serif;
+}
